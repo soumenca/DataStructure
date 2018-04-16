@@ -5,3 +5,5 @@
 2.Suppose you are given a stack of n pancakes of different sizes. You want to sort the pancakes so that smaller pancakes are on top of larger pancakes. The only operation you can perform is a flip—insert a spatula under the top k pancakes, for some integer k between 1 and n, and flip them all over. Describe an algorithm to sort an arbitrary stack of n pancakes using as few flips as possible. Exactly how many flips does your algorithm perform in the worst case? 
 
 3.Implementation of Bubble and Insertion sort in C language.
+
+4.Implementation of selection sort in C language.
